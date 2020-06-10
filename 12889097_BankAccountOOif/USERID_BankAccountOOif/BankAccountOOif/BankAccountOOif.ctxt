@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BankAccountOOif
+comment0.text=\r\n\ This\ Object-Oriented"\ version\ of\ the\ "BankAccount"\ class\r\n\ is\ stripped\ down\ to\ the\ essentials\ for\ illustrating\ the\r\n\ use\ of\ the\ "if"\ statement.\r\n\ \r\n\ SKELETON\ FOR\ LAB\ TEST.\r\n\ \r\n\ @author\ Raymond\ Lister\r\n\ @version\ April\ 2015\r\n
+comment1.params=bal
+comment1.target=BankAccountOOif(double)
+comment1.text=\r\n\ @param\ \ \ \ bal\ \ \ \ opening\ balance\r\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\r\n\ @return\ \ \ \ \ The\ account\ balance\ \r\n
+comment3.params=amount
+comment3.target=double\ withdraw(double)
+comment3.text=\r\n\ The\ withdrawal\ should\ be\ refused\ if\ the\ withdrawal\r\n\ would\ result\ in\ a\ negative\ balance.\r\n\ \r\n\ @param\ \ \ amount\ \ The\ amount\ to\ be\ withdrawn\r\n\r\n\ @return\ \ new\ balance\ or\ -1.0\ if\ withdrawal\ refused\r\n
+numComments=4
